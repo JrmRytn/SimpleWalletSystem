@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9+E62InyUKTUTV7hCByP6nOlVrrY2D9wYsMnLmgiQGo=",
+  "Source": "SimpleWalletSystem.WebApi",
+  "BasePath": "_content/SimpleWalletSystem.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
